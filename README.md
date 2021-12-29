@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.imgur.com/vkCxmFP.gif" width="120" height="240" />
+<img src="https://i.imgur.com/vkCxmFP.gif" width="240" height="480" />
 
 ## License
 
