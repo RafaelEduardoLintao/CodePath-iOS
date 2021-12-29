@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt Text](https://imgur.com/vkCxmFP)
+![Alt Text](https://i.imgur.com/vkCxmFP.gifv)
 
 ## License
 
