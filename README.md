@@ -19,6 +19,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/vkCxmFP.gif" width="240" height="480" />
 
+## Notes
+
+A majority of time was spent getting used to uploading code to github
+
 ## License
 
     Copyright [2021] [Rafael Eduardo Lintao]
